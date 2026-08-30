@@ -1,4 +1,4 @@
-ENGL 5311   
+ENG 5311   
 30 August 2026   
 ## Group Project Selection   
 

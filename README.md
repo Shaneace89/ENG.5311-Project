@@ -1,5 +1,11 @@
 # ENG.5311 - Project - What is Technical Communication?
 
+## Repository Layout
+- **/docs:** Contains Markdown files relating to the class project.
+- **/assets:** Contains all images and graphics used throughout the class project.
+
+___
+
 **Project Description**   
 As Technical Communicators and students of the MATC program, we are often asked by those who are unfamiliar about the field: What is Technical Communication? What do you do? Why is it important? For this project, we are aiming to create a deliverable that answers all of these questions simply, quickly, and efficiently, with the overall goal of spreading awareness on the subject as a whole. This deliverable will provide a broad overview of the field and explain how it translates and is applicable in many contexts. The finished product can be circulated to universities who offer Technical Communication at undergraduate and graduate levels as a standard reference guide. It can also be placed on the TXST MATC website under “Program Details” (which currently only explains program costs and tracks) to explain what the program focuses on and why a Master’s in Technical Communication is useful. Using this deliverable as not only a source of information but also a form of marketing will help target different users and stakeholders who are seeking more information about the benefits of Technical Communication.
 
@@ -16,7 +22,7 @@ We will utilize the information and resources that are already available on the 
 * A 1-2 page flyer for print or digital use   
 * An FAQ section will help guide either the brochure or flyer
 
-<hr>
+___
 
 **License**
 

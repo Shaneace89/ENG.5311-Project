@@ -31,7 +31,7 @@ Meeting every Thursday 5:30-6:00pm via Teams
 We will work with Dr. Dayley to review and distribute our final product to him and his colleagues. This will be in the form of a FAQ that can be formatted to a website or physical media. As a team, we will utilize multiple forms of communication. The team will use text messages to collaborate and brainstorm throughout the week. We will also have a standing Microsoft Teams meeting weekly for check-ins, training, and further collaboration. We will also utilize GitHub for versioning, and storage of our final product, including our weekly assignments. A basic repository has been built out and can be viewed below.
 
 **GitHub Repository**   
-https://github.com/Shaneace89/ENG.5311-Project
+[https://github.com/Shaneace89/ENG.5311-Project](https://github.com/Shaneace89/ENG.5311-Project)
 
 **GitHub README**   
-https://github.com/Shaneace89/ENG.5311-Project/blob/main/README.md
+[https://github.com/Shaneace89/ENG.5311-Project/blob/main/README.md](https://github.com/Shaneace89/ENG.5311-Project/blob/main/README.md)

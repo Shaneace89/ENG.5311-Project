@@ -6,6 +6,9 @@ ENG 5311
 ## Research purpose statement
 
 ## Research questions
+- What are common misconceptions about the field of technical communication?
+- What do people not know about the field of technical communication?
+- What might help someone understand the field of technical communication better?
 
 ## Method description
 

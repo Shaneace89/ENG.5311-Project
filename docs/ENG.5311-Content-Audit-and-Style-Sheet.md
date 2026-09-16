@@ -6,8 +6,12 @@ ENG 5311
 ### Content inventory or audit table
 
 
+<hr>
+
 ### Summary of major content issues
  
+
+<hr>
 
 ### Style sheet v1
 
@@ -30,6 +34,8 @@ ENG 5311
 | **A**dvisor | **F**AQ | **M**ATC | **T**echnical **C**ommunication | **U**niversity |
 | **E**mployer | **G**itHub | **M**aster's degree | **T**XST | |
 
+<hr>
+
 ### List of unresolved questions for users, client, or stakeholders
 
 - When you hear the term 'Technical Communication', how would you describe what a profession in this field actually does on a day-to-day basis?
@@ -37,6 +43,8 @@ ENG 5311
 - What are your ultimate career goals, and what made you look into a full master’s degree rather than a shorter certificate program?
 - What is the biggest hesitation or worry you have when thinking about starting this graduate program?
 - When you are comparing different universities for your graduate degree, what are the top three things that matter most to you?
+
+<hr>
 
 ### GitHub link to the relevant file, folder, or repository location
 

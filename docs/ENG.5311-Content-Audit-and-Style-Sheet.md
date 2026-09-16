@@ -22,6 +22,7 @@ ENG 5311
 
 #### Style, Punctuation & Grammar
 - **Fallback Standard:** When in doubt, default to the most current [APA style guidelines](https://guides.library.txstate.edu/writing-citation-style-guide/apa).
+- **Quotation Marks & Apostrophes:** Use straight quotes (`"` and `'`) rather than curly to prevent rendering errors in Markdown and HTML.
 - **Commas:** Oxford Comma is required
 - **Abbreviations:** Spell out acronyms (like MATC) on first reference 
 - **Lists:** Capitalize the first letter of each bullet point

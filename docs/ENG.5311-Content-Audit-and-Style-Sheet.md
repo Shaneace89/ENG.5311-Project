@@ -21,7 +21,7 @@ ENG 5311
  - **Markdown:** Bold will utilize (`**`), Italics will utilize (`*`)
 
 #### Style, Punctuation & Grammar
-- **Fallback Standard:** When in doubt, default to the most current [APA style guidelines](https://guides.library.txstate.edu/writing-citation-style-guide/apa).
+- **Fallback Standard:** When in doubt, default to the most current [AP Stylebook](https://www.apstylebook.com/).
 - **Quotation Marks & Apostrophes:** Use straight quotes (`"` and `'`) rather than curly to prevent rendering errors in Markdown and HTML.
 - **Commas:** Oxford Comma is required
 - **Abbreviations:** Spell out acronyms (like MATC) on first reference 

@@ -3,17 +3,23 @@ ENG 5311
 
 ## Content Audit and Style Sheet
 
-### Content inventory or audit table
+### Content Inventory
 
+|Examples|Survey|Outline|    
+| ------ | -----| ------|
+|[TXST M.A. Technical Communication FAQ](https://matc.english.txst.edu/future-students/future-student-faqs.html)|*Not completed*|*Not Completed*|
+|[Master's Degree FAQ](https://www.coursera.org/articles/masters-degree-faq)|
+|[George Brown Technical Communication FAQ](https://coned.georgebrown.ca/technical-communication-program-faq)|
+|[What is Technical Communication FAQ](https://www.mastersincommunications.com/faqs/what-is-technical-communication)|
 
 <hr>
 
-### Summary of major content issues
- 
+### Summary of Major Content Issues 
+Currently, the major content issue for this project is the missing survey, drafted outline, and a small disagreement in the project's intended audience. Without the survey answers to potential students, we as communicators are unable to analyze and evaluate the neither the perceptions, interests, or questions of our audience; furthermore without this intel we cannot determine how to develop our document to properly respond to our audience. An outline is necessary for organizational, structural, and visual purposes as we begin to draft and revise. And, finally, there has been discussion amongst the group members on the scope of the intended audience. Some members have advocated for limiting the audience to potential graduate students at Texas State University while other members have advocated to include industry professionals. Deciding which audience choice this project will lead forward with is pivotal in the sculpting its purpose, use, and design. 
 
 <hr>
 
-### Style sheet v1
+### Style Sheet v1
 
 #### Document Format & Typography
 - **Section Headers:** H2 (`##`) for categories, H3 (`###`) for specific questions

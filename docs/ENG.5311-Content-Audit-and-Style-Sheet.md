@@ -5,6 +5,8 @@ ENG 5311
 
 ### Content Inventory
 
+#### Existing Content 
+
 |Examples| Pros| Cons |    
 | ------ | -----| ------|
 |[TXST M.A. Technical Communication FAQ](https://matc.english.txst.edu/future-students/future-student-faqs.html)|Provides examples of roles Technical Communicators (TCs) perform | Only two sentences explain what the field of TC actually is| 
@@ -14,6 +16,12 @@ ENG 5311
 |[EBSCO Article- Technical Communication](https://www.ebsco.com/research-starters/business-and-management/technical-communication)|Provides a strong explanation about what TC is and the different contexts its used in with differing audiences | Uses high-level language and the article is very lengthy/not concise| 
 |[Wikipedia Page- Technical Communication](https://en.wikipedia.org/wiki/Technical_communication)|Provides strong detail about the processes a TC performs when creating content| Defines and limits TC work to mainly STEM fields|
 |[tekom Europe](https://www.technical-communication.org/technical-communication)|Offers a wide variety of information from defining the field, profession, and explaining their association| Has a lot of sections to click to find more information|
+
+##### Missing Content 
+
+|Surveys|Outline|
+|-------|-------|
+|*Not developed*|*Not developed*|
 
 <hr>
 

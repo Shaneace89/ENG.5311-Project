@@ -17,8 +17,8 @@ ENG 5311
 
 <hr>
 
-### Summary of Major Content Issues 
-Currently, the major content issue for this project is the missing survey, drafted outline, and a small disagreement in the project's intended audience. Without the survey answers to potential students, we as communicators are unable to analyze and evaluate the neither the perceptions, interests, or questions of our audience; furthermore without this intel we cannot determine how to develop our document to properly respond to our audience. An outline is necessary for organizational, structural, and visual purposes as we begin to draft and revise. And, finally, there has been discussion amongst the group members on the scope of the intended audience. Some members have advocated for limiting the audience to potential graduate students at Texas State University while other members have advocated to include industry professionals. Deciding which audience choice this project will lead forward with is pivotal in the sculpting its purpose, use, and design. 
+### Summary of Group Standing 
+There has been discussion amongst the group members on the scope of the intended audience. Some members have advocated for limiting the audience to potential graduate students at Texas State University while other members have advocated to include industry professionals. Deciding which audience choice this project will lead forward with is pivotal in the sculpting its purpose, use, and design. 
 
 <hr>
 

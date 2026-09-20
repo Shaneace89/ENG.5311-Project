@@ -5,12 +5,15 @@ ENG 5311
 
 ### Content Inventory
 
-|Examples|Survey|Outline|    
+|Examples| Pros| Cons |    
 | ------ | -----| ------|
-|[TXST M.A. Technical Communication FAQ](https://matc.english.txst.edu/future-students/future-student-faqs.html)|*Not completed*|*Not Completed*|
-|[Master's Degree FAQ](https://www.coursera.org/articles/masters-degree-faq)|
-|[George Brown Technical Communication FAQ](https://coned.georgebrown.ca/technical-communication-program-faq)|
-|[What is Technical Communication FAQ](https://www.mastersincommunications.com/faqs/what-is-technical-communication)|
+|[TXST M.A. Technical Communication FAQ](https://matc.english.txst.edu/future-students/future-student-faqs.html)|Provides examples of roles Technical Communicators (TCs) perform | Only two sentences explain what the field of TC actually is| 
+|[Coursera Master's Degree FAQ](https://www.coursera.org/articles/masters-degree-faq)|This is a good example of an FAQ with key takeaways| Does not mention anything about TC|
+|[George Brown Technical Communication FAQ](https://coned.georgebrown.ca/technical-communication-program-faq)|This is an example of an FAQ| Does not provide much information about what TC is and is very lengthy|
+|[What is Technical Communication FAQ](https://www.mastersincommunications.com/faqs/what-is-technical-communication)|Provides an in-depth explanation about what TC is and gives examples of diverse activities| Uses high-level language that may be hard to digest for non-academic audiences| 
+|[EBSCO Article- Technical Communication](https://www.ebsco.com/research-starters/business-and-management/technical-communication)|Provides a strong explanation about what TC is and the different contexts its used in with differing audiences | Uses high-level language and the article is very lengthy/not concise| 
+|[Wikipedia Page- Technical Communication](https://en.wikipedia.org/wiki/Technical_communication)|Provides strong detail about the processes a TC performs when creating content| Defines and limits TC work to mainly STEM fields|
+|[tekom Europe](https://www.technical-communication.org/technical-communication)|Offers a wide variety of information from defining the field, profession, and explaining their association| Has a lot of sections to click to find more information|
 
 <hr>
 

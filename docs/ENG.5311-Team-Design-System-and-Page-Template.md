@@ -5,13 +5,28 @@ ENG 5311
 
 ### Design System Guide
 
+Colors
+- TXST Maroon #501214
+- TXST Gold #AC9155
+- TXST Light Gold #D7BD8a
+  
+Fonts
+- Feeling Passionate (in Canva) 55pt
+- Public Sans 26pt
+- Public Sans Bold 16pt
+- Public Sans 12pt
+
 <hr>
 
 ### Page or Topic Template
 
+View pdf uploaded in "assets" folder
+
 <hr>
 
 ### Screenshot/Image Rules
+
+View four sample images uploaded in "assets" folder
 
 <hr>
 
@@ -19,9 +34,8 @@ ENG 5311
 
 #### Folding Brochure (PDF)
 
-- PDF name and document title clear and human readable
-- PDF Metadata correct and understandable, define document language
-- Set PDF links (page jumps)
+- PDF name, document title, author, and other metadata is clear
+- Set PDF links/clickable elements if document grows to be more than one page long
 - Correct flow from one panel to the next
 - Color and Contrast ratio is within appropriate means
 - Clear and legible font
@@ -40,6 +54,8 @@ ENG 5311
 <hr>
 
 ### Example Page Using the Template
+
+[View Canva Wireframing and Template](https://canva.link/94g2jk9zu6syzpj)  
 
 <hr>
 

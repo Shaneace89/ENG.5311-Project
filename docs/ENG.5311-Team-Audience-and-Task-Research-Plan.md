@@ -3,8 +3,11 @@ ENG 5311
 
 ## Team Audience and Task Research Plan
 
-### Research purpose statement
+### Research purpose statement (Can be deleted once below update is approved!)
 Choosing to pursue a Master’s degree is a momentous decision that can leave potential students stunned with nescience. This indecision is often worsened by graduate programs that are shrouded in legacies of all-consuming coursework, intense life-school-work balances, and doubtful relativity when transitioning from academia to the job market. For this reason, our group intends to take information about the field of technical communication and make it more clear for all audiences. This project will confront the question, “What is Technical Communication?”. To answer this question we will conduct document reviews, expert and non-expert surveys, and utilize personal insight to develop a FAQ that can be transitioned from electronic and paper documents. It is our hope that these documents can be useful for potential students, advisors, and professors in discerning the big-picture question of what technical communication is and why the field is useful.
+
+### *Updated Purpose*
+The group will develop, design, and deliver a Frequently Asked Questions (FAQ) infographic for potential and current students of Texas State University's Master's of Arts in Technical Communication program. This FAQ will provide responses that define the academic and career field, clarify common uncertainties and misconceptions, and provide insight of standard industry roles, tasks, and skills. A Qualtrics survey will be publicly distributed to obtain primarily qualitative data, but will possibly include quantitative data as well. The group will use this data to determine the general knowledge surrounding technical communication and narrow the document's lens of pertinent information to include. When completed, this FAQ will serve it's audience as a resource to answer the question, "What _is_ technical communication?" 
 
 ### Research questions
 These qualitative questions guide the content and layout of our FAQ document and similar deliverables. They ensure the final document addresses real student needs, highlights what regional employers value, and functions as an easy-to-read, user-centered brochure.   

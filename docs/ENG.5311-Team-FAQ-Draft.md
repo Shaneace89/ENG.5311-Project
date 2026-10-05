@@ -1,3 +1,6 @@
+## *Updated Purpose*
+The group will develop, design, and deliver a Frequently Asked Questions (FAQ) infographic for potential and current students of Texas State University's Master's of Arts in Technical Communication program. This FAQ will provide responses that define the academic and career field, clarify common uncertainties and misconceptions, and provide insight of standard industry roles, tasks, and skills. A Qualtrics survey will be publicly distributed to obtain primarily qualitative data, but will possibly include quantitative data as well. The group will use this data to determine the general knowledge surrounding technical communication and narrow the document's lens of pertinent information to include. When completed, this FAQ will serve it's audience as a resource to answer the question, "What _is_ technical communication?" 
+
 ## Known Gaps
 
 - **Survey research has not yet been fully added to the project.** The team planned to collect feedback from experts and people unfamiliar with Technical Communication, but those responses have not yet been fully reviewed. Because of that, the current draft still depends mostly on document research and the team’s own understanding of what prospective students may need.

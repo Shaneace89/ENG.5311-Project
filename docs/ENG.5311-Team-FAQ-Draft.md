@@ -1,7 +1,32 @@
-## *Updated Purpose*
+ENG 5311   
+4 October 2026
+
+## Team-FAQ-Draft
+
+### GitHub - Draft User-Facing Document     
+[https://github.com/Shaneace89/ENG.5311-Project/blob/main/assets/design-guide-and-template.pdf](https://github.com/Shaneace89/ENG.5311-Project/blob/main/assets/design-guide-and-template.pdf)
+
+<hr>
+
+### Project Title
+
+Master of Arts in Technical Communication (MATC) FAQ
+
+### Purpose Statement
 The group will develop, design, and deliver a Frequently Asked Questions (FAQ) infographic for potential and current students of Texas State University's Master's of Arts in Technical Communication program. This FAQ will provide responses that define the academic and career field, clarify common uncertainties and misconceptions, and provide insight of standard industry roles, tasks, and skills. A Qualtrics survey will be publicly distributed to obtain primarily qualitative data, but will possibly include quantitative data as well. The group will use this data to determine the general knowledge surrounding technical communication and narrow the document's lens of pertinent information to include. When completed, this FAQ will serve its audience as a resource to answer the question, "What _is_ technical communication?" 
 
-## Known Gaps
+<hr>
+
+### Known Questions
+
+- Who should the final document focus on?
+- How should survey results shape the draft?
+- How much general Technical Communication information is needed?
+- Which Texas State-specific details still need confirmation?
+- Which FAQ topics matter most to students?
+- What should the final format be?
+
+### Known Gaps
 
 - **Survey research has not yet been fully added to the project.** The team plans to collect feedback from experts and people unfamiliar with Technical Communication, and a survey is being created. Because of that, the current draft still depends mostly on document research and the team’s own understanding of what prospective students may need.
 
@@ -16,15 +41,15 @@ The group will develop, design, and deliver a Frequently Asked Questions (FAQ) i
 - **The final format has not been fully decided.** The team has discussed a tri-fold brochure, a one- to two-page flyer, an FAQ, and content that could work in both web and print formats. Discussion still needs to be
 -  held about how the information can transfer in a web format.
 
+<hr>
 
-## Known Questions
+### GitHub Link to the Relevant File, Folder, or Repository Location
 
-- Who should the final document focus on?
-- How should survey results shape the draft?
-- How much general Technical Communication information is needed?
-- Which Texas State-specific details still need confirmation?
-- Which FAQ topics matter most to students?
-- What should the final format be?
+**GitHub Repository**   
+[https://github.com/Shaneace89/ENG.5311-Project](https://github.com/Shaneace89/ENG.5311-Project)
 
-## User-Facing Deliverable
-View in "assets" folder.
+**GitHub README**   
+[https://github.com/Shaneace89/ENG.5311-Project/blob/main/README.md](https://github.com/Shaneace89/ENG.5311-Project/blob/main/README.md)
+
+**GitHub Asset Repository**   
+[https://github.com/Shaneace89/ENG.5311-Project/tree/main/assets](https://github.com/Shaneace89/ENG.5311-Project/tree/main/assets)

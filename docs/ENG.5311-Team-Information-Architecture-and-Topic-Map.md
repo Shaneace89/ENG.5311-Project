@@ -5,6 +5,21 @@ ENG 5311
 
 Our group has focused balancing content and style in our FAQ document. Currently, we have determined four sections for the document: the title, the primary questions and answers section, the side-bar context section, and a footnote citation. The users’ entry point is the title,”What is Technical Communication?”, which immediately introduces the topic and is visually appealing thanks to two complementary font choices. Immediately after the title, users face a decision point to either continue to the questions and answers section or the context section. We intend to guide users to the questions and answers section with stylistic choices such as encompassing the individual questions in large, white text bubbles against the colorful background and bolded secondary headings. Its purpose is to clarify misconceptions and share esoteric insight about the field of technical communication. Comparatively, the context section is considered the secondary purpose of the document. We have attempted to solidify this section as secondary (yet complementary) to the primary section by placing it beside the primary section while making its background color slightly lighter than the main background and opting for a lead-in header. The context section has been drafted to provide generalized information such as a succinct definition, a brief history, and a summary of the common roles, responsibilities, and skills of technical communicators in the field. Ultimately, these two sections have different purposes but are meant to complement each other in the effort of being informative to non-experts and credible to experts. Due to this intended synergy, users should be able to choose either point and still easily transverse the document and absorb the content. Finally, the document includes a footnote section which will contain the citation for our Qualtrics survey that will shape the questions and answers section. The footnote is a thin container matching the red of our header. This citation is ethically necessary to ensure credibility and transparency regarding our research.
 
+<hr>
+
 ## Revision Priorities for Existing Content    
 
 At this point, we have begun brainstorming potential common questions/misconceptions. We anticipate there being a need to inform users about the diversity of the technical communicators in the workforce, the various skills and software competency that technical communicators are commonly required/trained to possess, and clarification on what differentiates or overlaps technical communication from other professions. While we believe this content will be retained in the final product, we have begun to consider possibly integrating the data from our survey through graphs or statistics (e.g.”One in four non-expert respondents stated they were not familiar at all with the technical communication field.”). Furthermore, with the inclusion of experts to the surveys, we are looking forward to responses that may include not only clarifications of misconceptions amongst non-experts but also insight into the field from experts, as mentioned in the section above.
+
+<hr>
+
+## GitHub Link to the Relevant File, Folder, or Repository Location
+
+**GitHub Repository**   
+[https://github.com/Shaneace89/ENG.5311-Project](https://github.com/Shaneace89/ENG.5311-Project)
+
+**Organizational Explanation**   
+[https://github.com/Shaneace89/ENG.5311-Project/blob/main/assets/organizational-explanation.png](https://github.com/Shaneace89/ENG.5311-Project/blob/main/assets/organizational-explanation.png)
+
+**GitHub Asset Repository**   
+[https://github.com/Shaneace89/ENG.5311-Project/tree/main/assets](https://github.com/Shaneace89/ENG.5311-Project/tree/main/assets)

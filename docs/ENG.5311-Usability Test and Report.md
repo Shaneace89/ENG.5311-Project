@@ -16,7 +16,7 @@ The following instructions have been provided to guide our users through the tes
 2. Analyze the FAQ for its content, grammar, design, and overall cohesion. 
 3. Consider these three questions: Do you understand the document--not only what it says, but what it is intended to do? Was it easy navigating the document? If required, would you be able to explain to another person how this document could be applied in a real-world scenario? 
 4. Annotate as needed! Feel free to make notes on your version of the FAQ for us to review. 
-5. Provide feedback through the given Google form.
+5. Provide feedback through the given [Google form](https://forms.gle/Q47rbMeKSAoTYTGi8).
 
 ## Usability Post-Test Questions
 1. Tell us about yourself. What is your age, and what do you do? *Example response: (29, I work in retail)*

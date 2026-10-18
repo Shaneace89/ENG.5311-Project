@@ -1,6 +1,9 @@
-# Usability Test and Report
+ENG 5311   
+18 October 2026 
 
-## Usability Test Plan
+## Usability Test and Report
+
+### Usability Test Plan
 
 **User Information**
 
@@ -18,14 +21,18 @@ The following instructions have been provided to guide our users through the tes
 4. Annotate as needed! Feel free to make notes on your version of the FAQ for us to review. 
 5. Provide feedback through the given [Google form](https://forms.gle/Q47rbMeKSAoTYTGi8).
 
-## Usability Post-Test Questions
+<hr>
+
+### Usability Post-Test Questions
 1. Tell us about yourself. What is your age, and what do you do? *Example response: (29, I work in retail)*
 2. After reading the document, how much new information did you learn?
 3. If any, which part(s) of the document made the information confusing?
 4. How clear was the document?
 5. What else can help make the document be clear? Type N/A if nothing.
 
-## Test Report
+<hr>
+
+### Test Report
 
 | Tell us about yourself. What is your age, and what do you do? | After reading the document, how much new information did you learn? | If any, which part(s) of the document made the information confusing? | How clear was the document? *1 = Very clear, 5 = Not clear at all*| What else can help make the document be clear? Type N/A if nothing. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -35,14 +42,20 @@ The following instructions have been provided to guide our users through the tes
 | 28; Supply Specialist | I learned about technical communication and understood the document fully. | Nothing was confusing, n/a | 1 | I didn’t understand how the picture related to technical communication. When I first saw the picture next to the title I thought I was going to learn about how technology or software is used in school to communicate. Liked the document though. |
 | 25, work in fulfillment operations | I learned about technical communication and understood the document fully. | Nothing was confusing, n/a | 1 | N/A |
 
-## Summary of Findings
+<hr>
 
-## Revision List
+### Summary of Findings
+
+<hr>
+
+### Revision List
+
+<hr>
 
 ### GitHub link to the relevant file, folder, or repository location
 
 **GitHub Repository**   
 [https://github.com/Shaneace89/ENG.5311-Project](https://github.com/Shaneace89/ENG.5311-Project)
 
-**GitHub README**   
-[https://github.com/Shaneace89/ENG.5311-Project/blob/main/README.md](https://github.com/Shaneace89/ENG.5311-Project/blob/main/README.md)
+**GitHub Usability Test Draft**   
+[https://github.com/Shaneace89/ENG.5311-Project/blob/main/assets/what-is-tech-comm.pdf](https://github.com/Shaneace89/ENG.5311-Project/blob/main/assets/what-is-tech-comm.pdf)

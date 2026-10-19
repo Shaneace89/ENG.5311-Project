@@ -46,7 +46,7 @@ The following instructions have been provided to guide our users through the tes
 
 ### Summary of Findings
 
-All five participants reported learning about technical communication and understanding the FAQ. The review took place October 16–17, 2026, with adults ages 25–48 working in research, software development, business management, supply operations, and fulfillment operations.
+All five participants reported learning about technical communication and understanding the FAQ. The review took place October 16–17, 2026, with adults ages 25–48 working in research, software development, business management, supply operations, and fulfillment operations. All five participants had limited to no knowledge of technical communication before taking the test.
 
 Every participant selected the response indicating they learned about technical communication and understood the document fully. All five also selected “Nothing was confusing.” These are self-reported impressions, not scores from a comprehension or task-performance test.
 

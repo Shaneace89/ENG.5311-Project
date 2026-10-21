@@ -1,7 +1,7 @@
 ---
-title: ""    
+title: "Authoring Version FAQ"    
 component_type: ""   
-author: ""   
+author: "Umber Batool, Samantha Fisher, Shane Fleming, Morgan Zacheus-Sanchez"   
 status: ""    
 audience: ""     
 ---

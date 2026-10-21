@@ -11,11 +11,11 @@ ENG 5311
 
 ## Authoring Version Sidebar
 
-### Sidebar Title
+### Sidebar Title:
 
 #### An Overview of Technical Communication
 
-### Sidebar Contents
+### Sidebar Contents:
 
 Though technical communicators can take on many shapes, the overarching goal is to effectively communicate ideas and concepts to a specific audience.
 

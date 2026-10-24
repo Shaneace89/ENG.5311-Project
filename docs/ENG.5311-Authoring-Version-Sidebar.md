@@ -1,9 +1,9 @@
 ---
 title: "Authoring Version Sidebar"    
-component_type: ""   
+component_type: "Introduction"   
 author: "Umber Batool, Samantha Fisher, Shane Fleming, Morgan Zacheus-Sanchez"   
-status: ""    
-audience: ""     
+status: "In Development"    
+audience: "Non-experts"     
 ---
 
 ENG 5311   

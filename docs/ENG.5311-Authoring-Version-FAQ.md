@@ -1,9 +1,9 @@
 ---
 title: "Authoring Version FAQ"    
-component_type: ""   
+component_type: "Primary Content"   
 author: "Umber Batool, Samantha Fisher, Shane Fleming, Morgan Zacheus-Sanchez"   
-status: ""    
-audience: ""     
+status: "In Progress"    
+audience: "Experts and Non-experts"     
 ---
 
 ENG 5311   

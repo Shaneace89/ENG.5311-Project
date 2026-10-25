@@ -1,9 +1,9 @@
 ---
 title: "Authoring Version Footer"    
-component_type: ""   
+component_type: "End Matter/Footer"   
 author: "Umber Batool, Samantha Fisher, Shane Fleming, Morgan Zacheus-Sanchez"   
-status: ""    
-audience: ""     
+status: "Complete"    
+audience: "All users"     
 ---
 
 ENG 5311   

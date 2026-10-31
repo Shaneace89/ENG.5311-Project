@@ -13,10 +13,12 @@ ENG 5311
 
 ### Executive Summary/Overview
 
+This document provides readers with a brief and broad overview about the field of technical communication. Structured for readers who have no knowledge of the practice, this FAQ format aims to inform a variety of audiences for different purposes by answering questions such as: What is Technical Communication? What do technical communicators do? Why is it important? This FAQ answers all of these questions simply, quickly, and efficiently, with the overall goal of spreading awareness on the subject as a whole. The questions and answers featured in the FAQ were determined by a survey of over 50 participants, which explored perceptions of technical communication. After exploring the document, readers should leave with a greater understanding of the field’s origination, how technical communication is practiced, and why it's important. Organizations, such as universities, can use this document not only as a source of information but also a form of marketing to target prospective students. Other organizations (businesses, nonprofits, healthcare institutions, etc) can use the document to better understand what technical communicators do and why they are needed on their teams.
 <hr>
 
 ### Project Status
 
+The project is currently in its final revision stage. This document has gone through a usability test, where nonspecialists provided feedback on how effective the document is in explaining the field and practice of technical communication. This feedback needs to be incorporated into the final version of the document. Edits include: enlarging footer text, fixing minor grammar issues, replacing the header image, and updating survey count.
 <hr>
 
 ### Recommendation

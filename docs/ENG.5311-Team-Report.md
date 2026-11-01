@@ -71,6 +71,26 @@ These early findings validated the questions we chose for our FAQ pamphlet, beca
 
 ### Next steps
 
+With our initial research, FAQ development, and usability testing completed, our next step is to examine the document beyond its clarity and design. Although participant feedback was largely positive, questions remain about how well the FAQ serves readers with different needs and backgrounds. Our next review will address these concerns before further revisions are made.
+
+#### Ethics, Accessibility, and Risk Review
+
+Our team will evaluate the FAQ for issues involving accessibility, inclusion, accuracy, and user experience. Usability testing revealed concerns about the small footer text and a header image that one participant found misleading. We will also examine whether the document accommodates readers with visual impairments, uses language understandable to those unfamiliar with technical communication, and accurately represents the field. The possibility of a Spanish-language version will also be considered, particularly if the FAQ is utilized by Texas State University's MATC program.
+
+#### Revision Planning and Prioritization
+
+Following this review, we will develop an accessibility checklist and revision plan outlining potential concerns and their effects on readers. Changes will be prioritized according to their impact, with particular attention to issues that could prevent someone from understanding or using the document. We will document each recommended change, its purpose, and whether it has been completed or remains planned.
+
+#### Implementation and Documentation
+
+Once the necessary revisions are identified, our team will begin updating the FAQ. We will review these changes to ensure they address the concerns without compromising features participants found effective, particularly the question-and-answer format and relatable examples. Revised files and supporting documentation will be maintained in our shared GitHub repository, providing a record of the changes made and the reasoning behind them.
+
+#### Future Development Opportunities
+
+Beyond the semester project, we may explore additional ways to expand the FAQ's reach. As discussed in our recommendations, a Spanish-language version could accommodate more readers, while a QR code linked to a feedback survey could provide insight into their experiences. Website analytics may also help measure how frequently the resource is accessed if distributed online. These additions would be considered after the current document is completed.
+
+For now, our priority is identifying concerns that may not have surfaced during usability testing. This review will help determine which improvements are necessary before the FAQ is finalized.
+
 ### References 
 
 Texas State University. (2026, May). _Texas State University: Texas State Profile_. https://www.txst.edu/about/profile.html

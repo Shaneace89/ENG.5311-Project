@@ -31,15 +31,15 @@ As students and practitioners of technical communication we are aware that the a
 
 ### Recommendations 
 
-*1. Linguistic accessibility* 
+#### Linguistic accessibility
 
 In its current form this document is only available in English. However, there is the possibility of being utilized by Texas State University's Master's of Art in Technical Communication (MATC) program. "Hispanic enrollment at Texas State has increased over 30% in the past decade, well above the growth rate of Hispanics at all Texas public universities. The University has been designated a Hispanic-Serving Institution by the U.S. Department of Education and the Hispanic Association of Colleges and Universities." (Texas State University, 2026). Considering this, it could be ethically considerate and appropriate to develop a Spanish version of the document to accommodate the present Hispanic community. This accommodation also increases the document's (and therefore the MATC program's) outreach. 
 
-*2. Visitor count and time on page* 
+#### Visitor count and time on page
 
 The document can be distributed as a printable or shareable PDF. If it is utilized in an e-format it would be optimal to include a visitor counter and time on page coding metrics. Visitor counts, as the name suggests, counts the number of visitors to webpage. The time on page metric calculates the total duration a user spends viewing a specific webpage before navigating away or exiting. Such data could showcase if users are utilizing the resource, how many users are utilizing the resource (in total, at certain times, etc.), the average time users spend with the resource (presumably reading it), and if users are reading the document (based on times spent on the webpage). 
 
-*3. Helpfulness rating QR code*
+#### Helpfulness rating QR code
 
 It is important for the creators of this document to know if it succeeds at the goal it was designed for. However, the creators are considered experts themselves, and therefore cannot have the experience of a non-expert when reviewing the document. Further feedback from non-expert users would be necessary to determine if the document is helpful to that audience. Adding a QR code that is linked to a small survey could provide the creators with an avenue to obtain this feedback. This feedback will be utilized for future revisions. 
 
@@ -90,6 +90,8 @@ Once the necessary revisions are identified, our team will begin updating the FA
 Beyond the semester project, we may explore additional ways to expand the FAQ's reach. As discussed in our recommendations, a Spanish-language version could accommodate more readers, while a QR code linked to a feedback survey could provide insight into their experiences. Website analytics may also help measure how frequently the resource is accessed if distributed online. These additions would be considered after the current document is completed.
 
 For now, our priority is identifying concerns that may not have surfaced during usability testing. This review will help determine which improvements are necessary before the FAQ is finalized.
+
+<hr>
 
 ### References 
 

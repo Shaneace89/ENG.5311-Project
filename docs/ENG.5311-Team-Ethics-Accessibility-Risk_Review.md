@@ -11,14 +11,36 @@ ENG 5311
 
 ## Team Ethics, Accessibility, and Risk Review
 
-### Ethics
+### Review Memo
 
 <hr>
 
-### Accessibility
+### Accessibility Checklist
 
 <hr>
 
-### Risk Review
+### Identification of Possible User Harms or Exclusions
 
 <hr>
+
+### Revision Plan
+
+<hr>
+
+### Accessibility Checklist
+
+<hr>
+
+### List of Changes Made or Planned
+
+#### Made Changes:
+
+- **Replaced FAQ Background Image:** Usability testing feedback indicated that the original background photo did not have a connection to technical communication. We replaced it with a relevant and licensed image from Texas State University’s Canto library to improve context.
+
+#### Planned Changes:
+
+- **Typography and Readability Adjustments:** Based on our accessibility review, we will update the document's typography to improve readability.
+
+- **Color Contrast Corrections:** We will run the document through a color contrast checker and adjust the text and background color palette to ensure it meets standard accessibility contrast ratios.
+
+- **Screen Reader Optimization:** We will restructure the file in InDesign to be fully compatible with screen readers. 

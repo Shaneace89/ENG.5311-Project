@@ -16,6 +16,11 @@ ENG 5311
 <hr>
 
 ### Accessibility Checklist
+- Tag all text as either a H1, H2, or P
+- Add alt text to header image
+- Ensure color contrast with text
+- Ensure text size contrast
+- Set proper and logical reading order
 
 <hr>
 
@@ -34,20 +39,24 @@ To address the user harms or exclusions listed above, our group will perform the
 
 Additionally, we will continue formatting the document's text to find an appropriate font and font size that is readable. Likewise, our survey returned feedback that our original photo (included in the document's header) misrepresented the document's context. The feedback stated that the image containing people in a library setting mislead them to assume the content would relate solely to college students, whereas our document's content is more generalized. As such, we are seeking a more neutral header photo. These decisions are set to be made by next Sunday (November 17th, 2026), according to our group deadline. 
 
-### Accessibility Checklist
-
 <hr>
 
 ### List of Changes Made or Planned
 
-#### Made Changes:
+#### Changes Made Based on Usability Survey:
 
 - **Replaced FAQ Background Image:** Usability testing feedback indicated that the original background photo did not have a connection to technical communication. We replaced it with a relevant and licensed image from Texas State University’s Canto library to improve context.
+- **Increased Footer Size:** Usability testing feedback indicated that the footer with white text against the maroon color was difficult to read. To remedy this, we have increased footer font size.
 
-#### Planned Changes:
+#### Changes Made for Accessibility:
+The document, which was originally designed in Canva, has now been recreated in InDesign with the following revisions:
 
-- **Typography and Readability Adjustments:** Based on our accessibility review, we will update the document's typography to improve readability.
+- **Typography and Readability Adjustments:** Based on our accessibility review, we will have increased the font size of the footer to improve readability.
 
-- **Color Contrast Corrections:** We will run the document through a color contrast checker and adjust the text and background color palette to ensure it meets standard accessibility contrast ratios.
+- **Text:** All text has now been tagged as either a header or paragraph.
 
-- **Screen Reader Optimization:** We will restructure the file in InDesign to be fully compatible with screen readers. 
+- **Color Contrast Corrections:** We have run the document through a color contrast checker and ensure the document meets standard accessibility contrast ratios.
+
+- **Screen Reader Optimization:** We have restructured the file in InDesign to be fully compatible with screen readers by setting reading order
+
+- **Alt text:** The top image has been given alt text so screen readers can narrate what the image presents. 

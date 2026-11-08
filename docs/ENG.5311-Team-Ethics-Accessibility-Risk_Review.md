@@ -57,6 +57,10 @@ The document, which was originally designed in Canva, has now been recreated in 
 
 - **Color Contrast Corrections:** We have run the document through a color contrast checker and ensure the document meets standard accessibility contrast ratios.
 
+<div align="center">
+  <img src="../assets/Accessibility.jpg" alt="Color Contrast Comparison Accessibility" width="90%">
+</div>
+
 - **Screen Reader Optimization:** We have restructured the file in InDesign to be fully compatible with screen readers by setting reading order
 
 - **Alt text:** The top image has been given alt text so screen readers can narrate what the image presents. 

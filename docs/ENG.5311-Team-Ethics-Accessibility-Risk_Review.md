@@ -9,11 +9,77 @@ audience: "Internal Members and Supervisors"
 ENG 5311   
 8 November 2026
 
-## Team Ethics, Accessibility, and Risk Review
 
-### Review Memo
+# Team Ethics, Accessibility, and Risk Review
 
-<hr>
+## Review Memo
+
+**Memorandum**
+
+**To:** Dr. Christopher Dayley  
+**From:** Project Team  
+**Cc:** Umber Batool, Samantha Fisher, Shane Fleming, Morgan Zacheus-Sanchez  
+**Date:** November 8, 2026  
+**Re:** Ethics, Accessibility, and Risk Review of the Technical Communication FAQ
+
+---
+
+### Purpose and Scope
+
+This review evaluates the Technical Communication FAQ for accessibility barriers, usability problems, and design choices that could mislead or exclude readers. Drawing on usability survey feedback, an internal accessibility assessment, and color contrast testing, we examined how the document's typography, visual elements, and structure affect access to information.
+
+The findings informed key revisions to the document and identified areas requiring further verification.
+
+### Key Findings and User Impact
+
+Our review identified four areas that could affect how users read, navigate, and interpret the FAQ.
+
+- **Visual Readability:** The original document used 12-point Public Sans for the body and sidebar and 11-point text for the footnotes. The typeface's lighter weight and smaller font sizes could make supporting details difficult to read for people with low vision. Survey participants also reported difficulty reading the white text on the maroon footer.
+
+- **Color Contrast:** Testing the original Texas State brand color palette with Colour Contrast Analyser (CCA) confirmed that all five color combinations exceeded the Web Content Accessibility Guidelines (WCAG) 2.1 AAA minimum contrast ratio of 7:1 for normal text, scoring between 8.6:1 and 21:1. However, respondents reported difficulty reading the footer, suggesting that small text size or other layout factors affected readability despite passing contrast checks.
+
+- **Screen-Reader Accessibility:** Portions of the original Canva document could not be selected as text, raising concerns about whether screen readers could access and interpret the information accurately. Without proper semantic tagging and reading order, users relying on assistive technology could encounter missing information or content presented out of sequence.
+
+- **Audience Representation:** The testing group associated the original library photograph with a college-student audience, despite the FAQ addressing technical communication in a broader context. This mismatch could lead readers outside an academic setting to assume the information was not intended for them.
+
+### Ethical Considerations and Risk Assessment
+
+The original document created potential accessibility and comprehension barriers across user groups. Without proper PDF tags, someone using a screen reader could hear sections out of order or miss details entirely. At the same time, small footnotes and supporting text could make the page difficult to scan for people with low vision, even where colors met contrast requirements. Both issues could prevent some readers from accessing the same information available to others.
+
+Visual choices also influenced how readers interpreted the document. Because of the library photograph, survey respondents assumed the FAQ was written primarily for college students. Anyone outside that group could make the same assumption and skip material relevant to their work or interests. Although the photograph left the written content unchanged, it altered how people understood the document's purpose.
+
+Color testing revealed a separate gap between technical compliance and practical usability. Every tested color combination passed WCAG AAA text contrast requirements, yet participants still struggled to read the footer.
+
+These findings identify where the original design could limit access, create unnecessary difficulty, or misrepresent its intended audience. Any revisions must be evaluated through both accessibility standards and actual user experience.
+
+### Revisions and Verification
+
+The team implemented several changes based on the accessibility review and usability survey.
+
+- Recreated the document in Adobe InDesign to provide greater control over accessibility features.
+- Applied heading and paragraph tags and established a logical reading order.
+- Added alternative text to the header image.
+- Increased the footer font size to improve readability.
+- Replaced the original library photograph with a more relevant, licensed image from Texas State University's Canto library.
+- Tested five foreground and background color combinations and confirmed that each met WCAG 2.1 AAA text contrast requirements.
+
+#### Remaining Verification
+
+- Test the exported PDF with a screen reader to determine whether all content is accessible and presented in the correct sequence.
+- Confirm that text can be selected and read without omissions.
+- Inspect the PDF's tag structure and heading hierarchy.
+- Review the FAQ body, sidebar, and footnotes at typical viewing sizes to identify readability problems.
+- Correct any issues found during testing and verify the revised PDF.
+
+The InDesign revisions address structural problems identified in the original document. Their effectiveness depends on the exported PDF. Final testing will determine whether the document's accessibility features work as intended.
+
+### Conclusion
+
+Our review found several issues that could make the FAQ difficult to read, navigate, or understand. Survey feedback led us to improve the footer's readability and replace an image that gave readers the wrong impression of the intended audience. Color contrast testing confirmed that the original Texas State brand colors met WCAG 2.1 AAA standards, while rebuilding the document in Adobe InDesign allowed us to improve its structure and screen-reader support.
+
+Before submitting the FAQ, we still need to test the final PDF to make sure screen readers can access the content in the correct order and that the text is easy to read. Any problems found during testing will guide our final revisions.
+
+
 
 ### Accessibility Checklist
 - Tag all text as either a H1, H2, or P

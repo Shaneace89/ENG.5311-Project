@@ -40,7 +40,7 @@ ENG 5311
 ### Final Deliverables
 
 <div align="center">
-  <img src="../assets/what-is-tech-comm-accessible.pdf" alt="MATC Project FAQ" width="90%">
+  <img src="../assets/what-is-tech-comm-faq.pdf" alt="MATC Project FAQ" width="90%">
 </div>
 
 <hr>

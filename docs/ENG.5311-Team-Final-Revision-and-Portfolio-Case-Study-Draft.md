@@ -39,8 +39,10 @@ ENG 5311
 
 ### Final Deliverables
 
+[PDF Version of What is Tech Comm FAQ](https://github.com/Shaneace89/ENG.5311-Project/blob/main/assets/what-is-tech-comm-faq.pdf)
+
 <div align="center">
-  <img src="../assets/what-is-tech-comm-faq.pdf" alt="MATC Project FAQ" width="90%">
+  <img src="../assets/what-is-tech-comm-faq.jpg" alt="MATC Project FAQ" width="90%">
 </div>
 
 <hr>

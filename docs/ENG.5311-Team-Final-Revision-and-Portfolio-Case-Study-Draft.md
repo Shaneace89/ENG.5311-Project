@@ -11,8 +11,6 @@ ENG 5311
 
 ## Team Final Revision and Portfolio Case Study Draft
 
-<hr>
-
 ### Project Context
 
 <hr>

@@ -39,6 +39,10 @@ ENG 5311
 
 ### Final Deliverables
 
+<div align="center">
+  <img src="../assets/what-is-tech-comm-accessible.pdf" alt="MATC Project FAQ" width="90%">
+</div>
+
 <hr>
 
 ### Description of Each Team Member’s Contributions

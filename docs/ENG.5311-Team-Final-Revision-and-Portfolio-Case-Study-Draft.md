@@ -42,14 +42,14 @@ We created a one page flyer to be as concise and as possible, with a clear layou
 After feedback from usability test takers and our accessibility review, the following changes were made:
 The following revisions were made for accessibility:
 
-- Switched software: We recreated the document in Adobe InDesign from Canva to provide greater control over accessibility features.
-- Tagged text: We applied heading and paragraph tags to help with screen-reader usability
-- Alt-text: We added alternative text to the header image for accessibility.
-- Color contrast: We tested five foreground and background color combinations and confirmed that each met WCAG 2.1 AAA text contrast requirements.
+- **Switched software:** We recreated the document in Adobe InDesign from Canva to provide greater control over accessibility features.
+- **Tagged text:** We applied heading and paragraph tags to help with screen-reader usability
+- **Alt-text:** We added alternative text to the header image for accessibility.
+- **Color contrast:** We tested five foreground and background color combinations and confirmed that each met WCAG 2.1 AAA text contrast requirements.
 
 The following revisions were made from usability test feedback:
-- Text size: After feedback from the usability test, we increased the footer font size to improve readability.
-- Relevant heading picture: After feedback from the usability test, we replaced the original Texas State University library photograph of students studying with a more generally relevant image of a laptop to portray the field more accurately
+- **Text size:** After feedback from the usability test, we increased the footer font size to improve readability.
+- **Relevant heading picture:** After feedback from the usability test, we replaced the original Texas State University library photograph of students studying with a more generally relevant image of a laptop to portray the field more accurately
 
 
 <hr>

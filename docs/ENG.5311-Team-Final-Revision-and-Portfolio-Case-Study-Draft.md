@@ -2,7 +2,7 @@
 title: "Team Final Revision and Portfolio Case Study Draft"    
 component_type: "Final Revision of the Semester Project FAQ"   
 author: "Umber Batool, Samantha Fisher, Shane Fleming, Morgan Zacheus-Sanchez"   
-status: "In-progress"    
+status: "Complete"    
 audience: "Internal Members and Supervisors"     
 ---
 

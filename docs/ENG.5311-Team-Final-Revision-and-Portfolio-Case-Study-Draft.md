@@ -78,5 +78,14 @@ Umber
 - Created usability test
 
 <hr>
+Sam
+
+- **Research:** Gathered information about technical communication and identified common misunderstandings about the field.
+- **FAQ Content:** Researched and wrote questions and answers to make sure the information was accurate, clear, and useful to our audience.
+- **Qualtrics Survey:** Helped develop questions for the survey, reviewed responses, and used the findings to help determine what information to include in the flyer.
+- **Ethics, Accessibility, and Risk Memo:** Wrote the memo outlining ethical concerns, accessibility needs, and potential risks related to the project.
+- **Usability Testing:** Helped conduct the usability test, reviewed participant feedback, and summarized the findings to identify areas for improvement.
+- **Team Report:** Wrote the executive summary and next steps, highlighting the team's work, key findings, and recommended actions.
+
 
 ### Remaining Revision Checklist

@@ -13,9 +13,13 @@ ENG 5311
 
 ### Project Context
 
+Our project is a Frequently Asked Questions (FAQ) document titled _What is Technical Communication?_ and, as the title suggests, the document aims to be an informative resource answering common misconceptions about and offering relevant insight into the academic and career field of technical communication. This project came from the team's personal experience as students and professionals of technical communication in which friends, family members, peers, and even the occasional co-worker did not understand the roles and responsibilities nor the knowledge and skill sets of technical communicators. In other words, every member of the team had a similar experience of explaining _who__ they were as technical communicators and _what_ they do; as well as diligently acknowledging that this explanation could be starkly different depending on the technical communicator due to the field's versatility. This universal experience was the core identifier for the problem the team wanted to approach: What can we create to bridge this gap of information for a wide audience? After a lengthy analysis and development stage, we decided that a FAQ fitting a single, easily printable and shareable page would be the perfect medium. Instead of assuming the frequently asked questions of our intended users, we developed and conducted our own survey amongst 53 participants to accurately discern what were the gaps in knowledge for non-professionals participants and where there were opportunities to provide a more in-depth overview according to professional participants. Following the survey, we were able to create a document that provides the following information: a definition of technical communication, career opportunities, experience requirements, examples of technical communication in everyday life, and the general (but less known) tasks of technical communicators. Additionally, we include a sidebar that contains a brief history and overview of technical communication and a footnote that classifies the FAQ as an academic team project and notates the Qualtrics survey methodology. This combination of document components results in an FAQ that can be distributed to a multitude of audiences with an assortment of needs!
+
 <hr>
 
 ### User Need
+
+The FAQ is intended to be accessible and usable to a wide audience, including experts and non-experts. For example, faculty (i.e. experts) for a college English department, technical communication program, or technical communication course  may share the FAQ via e-mail, handout, or bulletin board in an attempt to inform students (i.e. non-experts) of the field and influence them to consider investing their education in it. Another hypothetical scenario that was prevalent during the projects' development was that of a business owner (i.e. non-expert) who is considering hiring a technical communicator but is unsure if such an employee is necessary or beneficial; perhaps, in this scenario, a fellow business owner or employee (i.e. possible expert or non-expert) provides the FAQ to assist in the business owner's decision making. While there are many  possible users and situations, there is one core *need* at the center of them all: a quick, reliable resource that explains what technical communication is and what technical communicators generally do.    
 
 <hr>
 
@@ -57,6 +61,7 @@ The **Qualtrics survey** assessed familiarity with technical communication and c
 
 The team analyzed numerical responses and written feedback, using a five-point clarity scale for the usability test (1 = "Very clear"; 5 = "Not clear at all"). Results were documented through tables, charts, and participant comments. Identified issues were prioritized according to their effects on comprehension, readability, and editorial accuracy to guide final revisions.
 
+<hr>
 
 ### Revisions
 
@@ -93,12 +98,22 @@ Umber
 - Developed style sheet
 - Created the design of the final deliverable
 - Ensured final deliverable is accessible
-- Outlined ethics of qualtrics survey
+- Outlined ethics of Qualtrics survey
 - Assisted with Qualtrics survey questions
 - Helped disseminate Qualtrics survey and gather respondents
-- Created usability test
+- Created usability test in Google Forms
 
-<hr>
+Morgan
+
+- Assisted with Qualtrics survey questions
+- Helped disseminate Qualtrics survey and gather respondents
+- Gathered similar document references for development and design
+- Contributed to weekly written reports (i.e. assignments) detailing the development, design, and re-design process 
+- Reviewed, edited, and revised weekly assignments and document updates
+- Analyzed and revised the document's purpose, medium, and audience in early development stages 
+- Assisted with (and justified via assignments) the layout and design of the doucment
+- Attended weekly meetings to discuss the short and long term goals of the project and delegate responsibilities to team members  
+
 Sam
 
 - **Research:** Gathered information about technical communication and identified common misunderstandings about the field.
@@ -108,5 +123,18 @@ Sam
 - **Usability Testing:** Helped conduct the usability test, reviewed participant feedback, and summarized the findings to identify areas for improvement.
 - **Team Report:** Wrote the executive summary and next steps, highlighting the team's work, key findings, and recommended actions.
 
+Shane
+
+- Developed survey in Qualtircs
+- Parsed through all 50+ survey respondent input and summarized main findings, and pulled respondent quotes
+- Drafted language of Q and A section of deliverable
+- Helps disseminate Qualtrics survey and usability test
+- Provided extensive guidance on GitHub formatting
+- Contributed to weekly written reports (i.e. assignments) detailing the development, design, and re-design process
+- Attended weekly meetings to discuss the short and long term goals of the project and delegate responsibilities to team members  
+
+<hr>
 
 ### Remaining Revision Checklist
+
+N/A,  the fully designed, updated, and accessible final deliveravle flyer was completed last week.

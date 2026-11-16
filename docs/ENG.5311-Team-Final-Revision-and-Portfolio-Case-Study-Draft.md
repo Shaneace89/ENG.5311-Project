@@ -35,7 +35,28 @@ We created a one page flyer to be as concise and as possible, with a clear layou
 
 ### Testing Process
 
-<hr>
+The team conducted two evaluations: a Qualtrics survey (October 13–23, 2026) and a usability test (October 16–17, 2026). Both collected quantitative and qualitative feedback to assess audience understanding and document effectiveness.
+
+#### Objectives and Participants
+
+The **Qualtrics survey** assessed familiarity with technical communication and collected 53 responses, including 44 completed questionnaires, through snowball sampling. The **usability test** evaluated the FAQ's clarity, readability, organization, and design with five participants (ages 25–48) who had limited to no prior knowledge of the field.
+
+#### Methods and Procedures
+
+**Qualtrics Survey**
+1. Distributed the survey through personal and professional networks.
+2. Used branching logic to tailor questions to participants' familiarity levels.
+3. Collected and compiled responses for analysis.
+
+**Usability Test**
+1. Distributed the digital FAQ through Canva.
+2. Asked participants to evaluate content, grammar, design, navigation, and comprehension.
+3. Collected feedback through a five-question Google Forms questionnaire measuring perceived learning, clarity, confusion, and suggested improvements.
+
+#### Evaluation and Revision
+
+The team analyzed numerical responses and written feedback, using a five-point clarity scale for the usability test (1 = "Very clear"; 5 = "Not clear at all"). Results were documented through tables, charts, and participant comments. Identified issues were prioritized according to their effects on comprehension, readability, and editorial accuracy to guide final revisions.
+
 
 ### Revisions
 

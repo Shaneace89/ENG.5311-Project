@@ -1,6 +1,6 @@
 ## ENG.5311 - Project - What is Technical Communication?
 
-**Final FAQ:** [Open the accessible PDF](./assets/what-is-tech-comm-accessible.pdf)
+**Latest Release FAQ:** [Open the PDF](https://github.com/Shaneace89/ENG.5311-Project/releases/latest)
 
 ### Repository Layout
 - **[/docs](./docs/):** Markdown files documenting the project, research, design, and revisions.

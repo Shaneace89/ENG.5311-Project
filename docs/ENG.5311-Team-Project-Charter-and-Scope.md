@@ -13,7 +13,7 @@ Our semester project will be a **FAQ list** about Technical Communication as a M
 * Sam Fisher - Writer & Researcher
 
 **Preliminary Timeline**   
-Meeting every Thursday 5:30-6:00pm via Teams
+Meeting every Tuesday 5:30-6:00pm via Teams
 
 | Week | Task (pulled from course syllabus) |
 | :--- | :--- |

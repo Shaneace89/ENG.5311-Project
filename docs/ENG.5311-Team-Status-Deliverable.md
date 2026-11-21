@@ -19,7 +19,7 @@ ENG 5311
 ---
 
 ### Supporting Documents
-- - **Project Charter and Scope:** [ENG.5311-Team-Project-Charter-and-Scope.md](./ENG.5311-Team-Project-Charter-and-Scope.md)
+- **Project Charter and Scope:** [ENG.5311-Team-Project-Charter-and-Scope.md](./ENG.5311-Team-Project-Charter-and-Scope.md)
 - **Audience and Task Research:** [ENG.5311-Team-Audience-and-Task-Research-Plan.md](./ENG.5311-Team-Audience-and-Task-Research-Plan.md)
 - **Content Inventory and Style Sheet:** [ENG.5311-Content-Audit-and-Style-Sheet.md](./ENG.5311-Content-Audit-and-Style-Sheet.md)
 - **Information Architecture:** [ENG.5311-Team-Information-Architecture-and-Topic-Map.md](./ENG.5311-Team-Information-Architecture-and-Topic-Map.md)
@@ -32,13 +32,15 @@ ENG 5311
 ---
 
 ### Team Contribution Statement
-Our team was composed of four members: Umber Batool, Samantha “Sam” Fisher, Shane Fleming, and Morgan Zacheus-Sanchez. All members: 
+Our team was composed of four members: Umber Batool, Samantha Fisher, Shane Fleming, and Morgan Zacheus-Sanchez. All members: 
 - Attended weekly meetings to discuss the short and long term goals of the project and delegate responsibilities to team members. 
 - Contributed to, reviewed, edited, and revised weekly assignments and reports.
 - Assisted each other when needed to complete deliverables
 - Collaborated effectively to consider or include ideas, revise content according to the project’s development, and maintain the purpose, audience, and use of the project. 
 - Helped disseminate the Qualtrics survey and gather respondents.
+
 Individually, the team worked diligently to contribute their strengths to the project. **Umber Batool** (Designer/Editor) led the visual design and accessibility of the final deliverable, developed the style sheet, contributed to content research, and assisted with survey development, distribution, and usability testing. **Samantha Fisher** (Researcher/Writer) researched and developed the FAQ content, contributed to survey analysis and usability testing, and documented ethical considerations, accessibility needs, project findings, and recommendations. **Shane Fleming** (Repository Manager/Final Reviewer) developed and published the Qualtrics survey, analyzed participant responses, drafted the Q&A content, provided GitHub formatting guidance, and contributed to project documentation and planning. **Morgan Zacheus-Sanchez** (Writer/Editor) contributed to the research, development, and design of the initial project idea and the final deliverable, and supported project planning, documentation, and revisions throughout the process. 
+
 The entire team is appreciative of each other's steady support and the impact each member made during the project’s development and on the final product. We are proud of the *What is Technical Communication FAQ* document that we created together. As we submit this final report, we hope the FAQ serves its purpose and supports its users well going forward! 
 
 ---

@@ -3,6 +3,8 @@ ENG 5311
 
 ## Team-FAQ-Draft
 
+> Archived planning draft from 4 October 2026. The open questions and gaps below reflect the project at that time, not its current status.
+
 ### GitHub - Draft User-Facing Document     
 [https://github.com/Shaneace89/ENG.5311-Project/blob/main/assets/design-guide-and-template.pdf](https://github.com/Shaneace89/ENG.5311-Project/blob/main/assets/design-guide-and-template.pdf)
 

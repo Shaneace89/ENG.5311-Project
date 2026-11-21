@@ -2,7 +2,7 @@
 title: "Authoring Version Sidebar"    
 component_type: "Introduction"   
 author: "Umber Batool, Samantha Fisher, Shane Fleming, Morgan Zacheus-Sanchez"   
-status: "In Development"    
+status: "Archived"    
 audience: "Non-experts"     
 ---
 

@@ -2,7 +2,7 @@
 title: "Team Final Revision and Portfolio Case Study Draft"    
 component_type: "Final Revision of the Semester Project FAQ"   
 author: "Umber Batool, Samantha Fisher, Shane Fleming, Morgan Zacheus-Sanchez"   
-status: "Complete"    
+status: "Complete Draft"    
 audience: "Internal Members and Supervisors"     
 ---
 
@@ -82,7 +82,7 @@ The following revisions were made from usability test feedback:
 
 ### Final Deliverables
 
-[Accessible PDF Version of What is Tech Comm FAQ](https://github.com/Shaneace89/ENG.5311-Project/blob/main/assets/what-is-tech-comm-faq.pdf)
+[Accessible PDF Version of What is Tech Comm FAQ](../assets/what-is-tech-comm-accessible.pdf)
 
 <div align="center">
   <img src="../assets/what-is-tech-comm-faq.jpg" alt="MATC Project FAQ" width="90%">
@@ -137,4 +137,4 @@ Shane
 
 ### Remaining Revision Checklist
 
-N/A,  the fully designed, updated, and accessible final deliveravle flyer was completed last week.
+No revisions remain on the flyer. The final, accessible version was completed after the usability and accessibility reviews.

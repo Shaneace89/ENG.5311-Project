@@ -1,71 +1,74 @@
 ## ENG.5311 - Project - What is Technical Communication?
 
-### Team Roles
-- **Umber Batool:** Editor & Designer
-- **Samantha Fisher:** Writer & Researcher
-- **Shane Fleming:** Final Reviewer & Repository Manager
-- **Morgan Zacheus-Sanchez:** Writer & Editor
+**Final FAQ:** [Open the accessible PDF](./assets/what-is-tech-comm-accessible.pdf)
 
 ### Repository Layout
-- **/docs:** Contains Markdown files relating to the class project.
-- **/assets:** Contains all images and graphics used throughout the class project.
+- **[/docs](./docs/):** Markdown files documenting the project, research, design, and revisions.
+- **[/assets](./assets/):** Final FAQ deliverables, drafts, research figures, and design materials.
 
 ---
 
 ### Project Overview
 
 **Scope & Description**
-As Technical Communicators and students of the MATC program, we are often asked by those unfamiliar with the field: What is Technical Communication? What do you do? Why is it important? Choosing to pursue a Master’s degree is a momentous decision, and graduate programs are often shrouded in myths of all-consuming coursework and uncertain transitions to the job market. 
-
-For this semester project, our goal is to remove Texas State University's Technical Communication Graduate program from the scrolls of myth and lore by creating an accurate, accessible FAQ deliverable. This resource will define the degree, offer career insight, and highlight program outcomes simply and efficiently. The finished product can be circulated to universities as a standard reference guide and placed on the TXST MATC website under “Program Details.”
+This project addresses a question the team often encounters from people outside the field: What is technical communication, and what do technical communicators do? The final deliverable is a concise, one-page FAQ that introduces the field, describes common tasks and career opportunities, and gives everyday examples. It is designed to be shared digitally or printed and is broadly relevant beyond Texas State University's MATC program.
 
 **Users and Stakeholders**
-- **Non-Specialists:** Potential and current students exploring subjects to enroll in who need more information on why the course is worth their time and money.
-- **Experts:** Teachers, professors, and academic advisors who need a quick guide to explain what their program offers when advising students on academic and career goals.
-- **Employers:** Organizations that need a Technical Communicator but may not know what the role fully encompasses.
+- **General readers and prospective students:** People exploring technical communication as a field of study or career.
+- **Faculty and academic advisors:** Educators looking for a concise resource to share with students.
+- **Employers:** Organizations seeking to understand the roles and skills technical communicators can bring to a team.
 
-**Possible Deliverables**
-- A tri-fold brochure for print or digital use
-- A 1-2 page flyer for print or digital use
-- An FAQ section to guide either the brochure or flyer
+**Final Deliverable**
+- A one-page FAQ flyer, available in the **/assets** folder as an [accessible PDF](./assets/what-is-tech-comm-accessible.pdf) and a [preview image](./assets/what-is-tech-comm-faq.jpg).
 
 ---
 
 ### Purpose & Questions
-To answer the core questions of our project, we will conduct document reviews, deploy expert and non-expert surveys, and utilize personal insight. Our research is guided by the following questions:
-- When you hear the term 'Technical Communication', how would you describe what a profession in this field actually does on a day-to-day basis?
-- What do you think is the biggest difference between technical writing and other types of writing, like journalism or creative writing?
-- What are your ultimate career goals, and what made you look into a full master’s degree rather than a shorter certificate program?
-- What is the biggest hesitation or worry you have when thinking about starting this graduate program?
-- When you are comparing different universities for your graduate degree, what are the top three things that matter most to you?
+The FAQ provides a quick, accessible introduction to technical communication by answering five core questions:
+- What is technical communication?
+- What do technical communicators do?
+- What career opportunities exist in the field?
+- Is a technical background required?
+- Where do people encounter technical communication in everyday life?
 
-### Method description
-This project will center a qualitative approach. The following three methods will be employed:   
-- **Document Review:** Finding and analyzing other relevant documents to determine the standard questions and answers. More specifically, reviewing the current TXST Technical Communication FAQ ([TXST FAQ](https://matc.english.txst.edu/future-students/future-student-faqs.html)) will be necessary to avoid repetition, possibly update information, and ensure that the trajectory of the project is clear and distinct. 
-- **Surveys:** Two short surveys sent to our two primary audiences, the experts and the non-experts. The experts can inform us of questions they are normally approached with and their input to what they think is important for interested students to know about the degree/program.  The non-experts will provide insight to common (mis)conceptions, questions, and what information would be useful in their decision to either pursue or forgo Technical Communication as an academic/career path.
+---
 
-### Participant or data source plan
-Participants will consist of Texas State University students and faculty, as well as friends, family members, and other individuals outside the technical communication field.
+### Method Description
+The team reviewed existing technical communication resources, conducted a Qualtrics survey, and tested the FAQ with readers unfamiliar with the field.
+- **Document review:** Analyzed comparable technical communication FAQs and program resources to identify common questions, gaps, and effective formatting.
+- **Survey:** Collected 53 responses from October 13–23, 2026 (44 complete). Among less-familiar respondents, common role associations included programmer or IT specialist, traditional copywriter or editor, and instructional designer.
+- **Usability test:** Evaluated the draft FAQ for clarity, content, and design. All five participants reported learning about and understanding the field from the document; clarity ratings ranged from 1 to 2 on a five-point scale, where 1 was very clear.
 
-### Interview, survey, observation, or review protocol
-- **Document Review Protocol:** The group members will compile 4-6 alternative FAQ documents (including the TXST FAQ). Group members will analyze and evaluate the documents to determine differences and similarities, functionality and improvements that they would like to apply to or avoid in their project. 
-- **Survey Protocol:** The group members will develop the individual expert and non-expert surveys according to the agreed upon research questions and the determined project vision identified by the document review. The surveys will be built through [Qualtrics](https://services.txst.edu/TDClient/39/ITAC/Requests/Service/142/Qualtrics). Expert surveys will be sent to teaching faculty in the Technical Communication program. Non-expert surveys will be sent to personal networks to include friends, family, and individuals entirely outside of our field. Responses to both surveys will be electronically submitted through Qualtrics.
-  
-### Ethics and consent considerations
-- **Informed Consent:** Participants should be given clear information about the purpose of the study. Contact information of the team conducting the study should also be included for participants to use, should there be any questions or concerns related to the study.
-- **Voluntary Participation:** Participants will understand their engagement and participation in the study is voluntary and that they are not obligated to participate.
-- **Right to Withdraw:** Participants will know they are able to withdraw from the study at any time, regardless of how much they have completed the survey.
-- **Anonymity:** Participants will understand their identities will remain hidden.
-- **Safety:** Participants will understand this study will pose minimal to no emotional risk for participants.
-- **Data Handling:** Participants will understand data collected from them will only be used by the team conducting the study. Data can be shared for viewing with related academic partners, while keeping anonymity. It will not be shared with any third parties for related or unrelated purposes.
-- **AI Usage:** Participants will understand AI may be used to clean open-ended data results but will not include any personal data. AI usage (including how AI will be used, when AI will be used, and why AI will be used) will be agreed upon by all members of the team conducting the study.
+---
+
+### Participants and Data Sources
+- **Survey participants:** Recruited through the team's personal and professional networks, representing varying levels of familiarity with technical communication.
+- **Usability test participants:** Five adults, ages 25–48, with limited to no prior knowledge of the field.
+
+---
+
+### Revisions and Accessibility
+Based on usability and accessibility reviews, the team recreated the flyer in Adobe InDesign, added document tags and alternative text, increased footer text size, and replaced the title image. The selected text and background color combinations were tested and meet WCAG 2.1 AAA contrast requirements. The final design retains the question-and-answer format and everyday examples that participants found helpful.
+
+---
+
+### Ethics and Consent Considerations
+The team addressed informed consent, voluntary participation, anonymity, participant safety, and responsible handling of survey data during research planning. Full details are available in the [ethics and accessibility review](./docs/ENG.5311-Team-Ethics-Accessibility-Risk_Review.md).
+
+---
+
+### Team Roles
+- **Umber Batool:** Editor and designer; developed the style sheet and final flyer, reviewed accessibility, contributed to survey planning, and created the usability test.
+- **Samantha Fisher:** Writer and researcher; researched technical communication, developed FAQ content, contributed to survey and usability work, and prepared the ethics and accessibility review and team report.
+- **Shane Fleming:** Repository manager and final reviewer; developed and analyzed the Qualtrics survey, drafted FAQ content, supported usability testing, and guided repository formatting.
+- **Morgan Zacheus-Sanchez:** Writer and editor; contributed to survey development and distribution, researched comparable resources, reviewed project content, and supported the FAQ's purpose and design decisions.
 
 ---
 
 ### License
 
-MATC FAQ Pamphlet (c) by Umber Batool, Samantha Fisher, Shane Fleming, Morgan Zacheus-Sanchez
+What is Technical Communication? FAQ Flyer (c) 2026 by Umber Batool, Samantha Fisher, Shane Fleming, Morgan Zacheus-Sanchez
 
-MATC FAQ Pamphlet is licensed under a Creative Commons Attribution 4.0 International License.
+What is Technical Communication? FAQ Flyer is licensed under a Creative Commons Attribution 4.0 International License.
 You should have received a copy of the license along with this work.
 If not, see <https://creativecommons.org/licenses/by/4.0/>.

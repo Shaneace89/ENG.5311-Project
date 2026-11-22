@@ -41,7 +41,7 @@ Our team was composed of four members: Umber Batool, Samantha Fisher, Shane Flem
 
 Individually, the team worked diligently to contribute their strengths to the project. **Umber Batool** (Designer/Editor) led the visual design and accessibility of the final deliverable, developed the style sheet, contributed to content research, and assisted with survey development, distribution, and usability testing. **Samantha Fisher** (Researcher/Writer) researched and developed the FAQ content, contributed to survey analysis and usability testing, and documented ethical considerations, accessibility needs, project findings, and recommendations. **Shane Fleming** (Repository Manager/Final Reviewer) developed and published the Qualtrics survey, analyzed participant responses, drafted the Q&A content, provided GitHub formatting guidance, and contributed to project documentation and planning. **Morgan Zacheus-Sanchez** (Writer/Editor) contributed to the research, development, and design of the initial project idea and the final deliverable, and supported project planning, documentation, and revisions throughout the process. 
 
-The entire team is appreciative of each other's steady support and the impact each member made during the project’s development and on the final product. We are proud of the *What Is Technical Communication? FAQ* document that we created together. As we submit this final report, we hope the FAQ serves its purpose and supports its users well going forward!
+The entire team is appreciative of each other's steady support and the impact each member made during the project’s development and on the final product. We are proud of the *What is Technical Communication? FAQ* document that we created together. As we submit this final report, we hope the FAQ serves its purpose and supports its users well going forward!
 
 ---
 
@@ -50,14 +50,14 @@ The entire team is appreciative of each other's steady support and the impact ea
 **To:** Dr. Christopher Dayley  
 **From:** Umber Batool, Samantha Fisher, Shane Fleming, and Morgan Zacheus-Sanchez  
 **Date:** November 22, 2026  
-**Subject:** Final Project Handoff – *What Is Technical Communication? FAQ*  
+**Subject:** Final Project Handoff – *What is Technical Communication? FAQ*  
 **Course:** ENG 5311
 
 ---
 
 #### Purpose and Delivery
 
-Our team submits the completed *What Is Technical Communication?* frequently asked questions (FAQ) and its supporting documentation for review and potential future distribution. The project provides an accessible, one-page introduction to technical communication for individuals unfamiliar with the field. All final deliverables, research materials, design documentation, and revision records are organized in the team's GitHub repository.
+Our team submits the completed *What is Technical Communication?* frequently asked questions (FAQ) and its supporting documentation for review and potential future distribution. The project provides an accessible, one-page introduction to technical communication for individuals unfamiliar with the field. All final deliverables, research materials, design documentation, and revision records are organized in the team's GitHub repository.
 
 We recommend transferring the project to Dr. Dayley, with Texas State University's Department of Technical Communication serving as its proposed long-term custodian.
 
